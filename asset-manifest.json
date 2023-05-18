@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MySite/static/css/main.18625249.css",
+    "main.js": "/MySite/static/js/main.f4af399e.js",
+    "static/media/NewsChimps.png": "/MySite/static/media/NewsChimps.65d9c98a613cbcc4fc60.png",
+    "static/media/HomePhysio.png": "/MySite/static/media/HomePhysio.fcf21fa216da7a77822b.png",
+    "static/media/MonikaShakya.pdf": "/MySite/static/media/MonikaShakya.8bca1fcf03a419fdc69c.pdf",
+    "static/media/profile.png": "/MySite/static/media/profile.144e10528fadadf82c08.png",
+    "static/media/DrumKit.png": "/MySite/static/media/DrumKit.f8b144b0db3b1f12f278.png",
+    "static/media/Mon.png": "/MySite/static/media/Mon.d5beab28612710c2a42e.png",
+    "static/media/nodejs.png": "/MySite/static/media/nodejs.8f07f32e08c85c12cc3e.png",
+    "static/media/JavaScript.png": "/MySite/static/media/JavaScript.d577ca013e29c6a31025.png",
+    "static/media/Inotebook.png": "/MySite/static/media/Inotebook.b4524fe2741baadfbc4d.png",
+    "static/media/react.png": "/MySite/static/media/react.16927778f8bd4697027d.png",
+    "static/media/html.png": "/MySite/static/media/html.bc5fd5ba6399db86a72c.png",
+    "static/media/GitHub.png": "/MySite/static/media/GitHub.5c63ccb33cc8c83ea0ac.png",
+    "static/media/bootstrap.png": "/MySite/static/media/bootstrap.2800bb3ed6b40097a8d7.png",
+    "static/media/Css.png": "/MySite/static/media/Css.56ac1aee6b08c43e7aac.png",
+    "index.html": "/MySite/index.html",
+    "main.18625249.css.map": "/MySite/static/css/main.18625249.css.map",
+    "main.f4af399e.js.map": "/MySite/static/js/main.f4af399e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18625249.css",
+    "static/js/main.f4af399e.js"
+  ]
+}
